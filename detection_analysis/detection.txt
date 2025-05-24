@@ -1,0 +1,95 @@
+layout: 
+  dim: []
+  data_offset: 0
+data: [364580.09375, 0.19324208796024323]
+---
+layout: 
+  dim: []
+  data_offset: 0
+data: [364581.09375, 0.24146735668182373]
+---
+layout: 
+  dim: []
+  data_offset: 0
+data: [364582.09375, 0.307258278131485]
+---
+layout: 
+  dim: []
+  data_offset: 0
+data: [364583.09375, 0.39866575598716736]
+---
+layout: 
+  dim: []
+  data_offset: 0
+data: [364584.09375, 0.47596365213394165]
+---
+layout: 
+  dim: []
+  data_offset: 0
+data: [364585.09375, 0.5868260264396667]
+---
+layout: 
+  dim: []
+  data_offset: 0
+data: [364586.09375, 0.6998282670974731]
+---
+layout: 
+  dim: []
+  data_offset: 0
+data: [364587.09375, 0.8023355007171631]
+---
+layout: 
+  dim: []
+  data_offset: 0
+data: [364588.09375, 0.8237298727035522]
+---
+layout: 
+  dim: []
+  data_offset: 0
+data: [364589.09375, 0.8092668652534485]
+---
+layout: 
+  dim: []
+  data_offset: 0
+data: [364590.09375, 0.758845865726471]
+---
+layout: 
+  dim: []
+  data_offset: 0
+data: [364591.09375, 0.774535596370697]
+---
+layout: 
+  dim: []
+  data_offset: 0
+data: [364620.09375, 0.9999865889549255]
+---
+layout: 
+  dim: []
+  data_offset: 0
+data: [364621.09375, 0.36459478735923767]
+---
+layout: 
+  dim: []
+  data_offset: 0
+data: [364622.09375, 0.34513598680496216]
+---
+layout: 
+  dim: []
+  data_offset: 0
+data: [364623.09375, 0.20154736936092377]
+---
+layout: 
+  dim: []
+  data_offset: 0
+data: [364650.96875, 0.6132081151008606]
+---
+layout: 
+  dim: []
+  data_offset: 0
+data: [364652.09375, 0.647895336151123]
+---
+layout: 
+  dim: []
+  data_offset: 0
+data: [364652.46875, 0.6480581164360046]
+---
